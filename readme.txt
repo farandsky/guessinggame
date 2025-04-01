@@ -1,2 +1,2 @@
 This is my first repo
-A new line has been added
+A new line from new branch has been added
